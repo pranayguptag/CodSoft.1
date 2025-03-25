@@ -1,4 +1,4 @@
-# CodSoft.1 
+# CodSoft
 Completed Task 1: "TITANIC SURVIVAL PREDICTION" for CodSoft Internship!
 "I'm excited to share my first project on Titanic survival prediction . I completed this project during my internship at CodSoft,
 I used Python and machine learning to predict the survival of Titanic passengers. My model achieved an accuracy of 80%, which is significantly higher than the baseline accuracy of 50%. I used a variety of features, including passenger class, sex, age, and fare, to train my model. I also explored the data to identify any interesting patterns. For example, I found that passengers in first class were more likely to survive than passengers in third class. I also found that female passengers were more likely to survive than male passengers. I'm excited to share my findings with the community and to continue learning about machine learning."
